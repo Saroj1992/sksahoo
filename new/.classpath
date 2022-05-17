@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/New folder (2)/poi-bin-5.2.2-20220312.zip"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/jxl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/selenium-server-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar file/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
